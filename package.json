@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-data-structure-javascript",
+  "version": "1.0.0",
+  "description": "A place to put all my solved algorithm exercises and data structure in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiofernandes00/Algorithms-Data-Structure-Javascript.git"
+  },
+  "author": "caiofernandes00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiofernandes00/Algorithms-Data-Structure-Javascript/issues"
+  },
+  "homepage": "https://github.com/caiofernandes00/Algorithms-Data-Structure-Javascript#readme"
+}
